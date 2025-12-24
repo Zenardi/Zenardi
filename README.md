@@ -58,12 +58,19 @@ I am a seasoned Site Reliability Engineer based in Campinas, Brazil, proficient 
 
 Here are a few highlights from my work:
 
-* **[Spring Boot MVC App with Terraform](https://github.com/Zenardi/springboot-mvc)**
-    * Full DevOps project configuring CI/CD with Jenkins, Docker, and Kubernetes on infrastructure provisioned by Terraform.
-* **[Kubernetes Microservices](https://github.com/Zenardi/project-ml-microservice-kubernetes)**
-    * Python Flask app with Continuous Integration via CircleCI and Continuous Deployment to AWS using Docker and Kubernetes.
-* **Self-Driving Cars & Deep Learning**
-    * Various projects involving Computer Vision and Deep Learning, including [Dog Breed Classifier](https://github.com/Zenardi), Traffic Light Classification, and teaching a drone to fly using Reinforcement Learning.
+* **[Kubernetes MicroServices](https://github.com/Zenardi/project-ml-microservice-kubernetes)**
+    * On this project, I used a flask app (Python) and configured continuous integration using CircleCI and continuous deployment to AWS using Docker and Kubernetes.
+* **[Fleet Management](https://github.com/Zenardi/fleetman-k8s)**
+    * An application for fleet management which monitors vehicles positions and delivery packages. It uses Kubernetes with a high availability architecture.
+
+### 🧠 Deep Learning and Intro to Self Driving Cars
+
+* [Dog Breed Classifier](https://github.com/Zenardi/deep-learning/tree/master/dog-breed-classifier)
+* [Bike Sharing Prediction](https://github.com/Zenardi/deep-learning/tree/master/bike-sharing-prediction)
+* [Sentiment Classification](https://github.com/Zenardi/deep-learning/tree/master/Sentiment-Classification)
+* [Day and Night Classifier](https://github.com/Zenardi/Intro-Self-Driving-Cars/tree/master/DayNightClassifier)
+* [Traffic Light Classifier](https://github.com/Zenardi/Intro-Self-Driving-Cars/tree/master/Traffic-Light-Classifier)
+* [Teaching a drone how to fly with reinforcement learning](https://github.com/Zenardi/deep-learning/tree/master/Quadcopter)
 
 ---
 
