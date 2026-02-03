@@ -6,7 +6,7 @@
 
 I am a seasoned Site Reliability Engineer based in Campinas, Brazil, proficient in maintaining cloud infrastructure integrity, performance, and cost-effectiveness. I am committed to top-notch service and well-versed in industry standards.
 
-- 🔭 I’m currently working on BOSCH with **Cloud Infrastructure & SRE Best Practices**
+- 🔭 I’m currently working at BOSCH with **Cloud Infrastructure & SRE Best Practices**
 - 🌱 I’m currently pursuing a **Postgraduate degree in Software Architecture, Data Science, and Cybersecurity**
 - 💬 Ask me about **AWS, Azure, Kubernetes, Terraform, and CI/CD**
 - 📫 Reach me at: **du.zenardi@gmail.com**
