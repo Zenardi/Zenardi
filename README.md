@@ -2,7 +2,7 @@
 
 ![sre](https://i.imgur.com/ykaNfky.jpg)
 
-### Site Reliability Engineer | DevOps Engineer | Cloud Architect
+### Site Reliability Engineer | AI Platform Engineer | AI Gateway Engineer | Forward Deployed Engineer
 
 I am a Site Reliability Engineer and AI Platform Engineer at Bosch Brasil with a passion for building resilient, high-performance, and cost-effective cloud infrastructure. Over the years, I’ve specialized in bridging the gap between software development and infrastructure operations—automating deployments, driving down cloud costs by up to 40%, and implementing robust observability stacks (Prometheus, Grafana, ELK, Jaeger) to keep mission-critical systems running smoothly.
 
