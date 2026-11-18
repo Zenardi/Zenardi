@@ -4,7 +4,10 @@
 
 ### Site Reliability Engineer | DevOps Engineer | Cloud Architect
 
-I am a seasoned Site Reliability Engineer based in Campinas, Brazil, proficient in maintaining cloud infrastructure integrity, performance, and cost-effectiveness. I am committed to top-notch service and well-versed in industry standards.
+I am a Site Reliability Engineer and AI Platform Engineer at Bosch Brasil with a passion for building resilient, high-performance, and cost-effective cloud infrastructure. Over the years, I’ve specialized in bridging the gap between software development and infrastructure operations—automating deployments, driving down cloud costs by up to 40%, and implementing robust observability stacks (Prometheus, Grafana, ELK, Jaeger) to keep mission-critical systems running smoothly.
+
+My background spans Kubernetes cluster management, infrastructure-as-code (Terraform, Ansible), CI/CD pipeline orchestration, and cross-functional incident management. Recently, I’ve expanded my expertise into Software Architecture, Data Science, and Cybersecurity, allowing me to approach platform reliability and AI gateway engineering with a security-first, data-informed mindset. Whether I'm cutting cloud onboarding costs or scaling complex distributed systems, I focus on turning technical hurdles into reliable, scalable solutions.
+
 
 - 🔭 I’m currently working at BOSCH with **Cloud Infrastructure & SRE Best Practices**
 - 🌱 I’m currently pursuing a **Postgraduate degree in Software Architecture, Data Science, and Cybersecurity**
